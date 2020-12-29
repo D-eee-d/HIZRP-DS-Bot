@@ -1,0 +1,47 @@
+{
+    "bot":{
+        "token": "Njc0OTQxOTk2NTI3Mzg2NjM1.Xjv6tw.5O2caMgGt904jDCND5tGrG4PYJU",
+        "prefix": "/",
+        "commandstaff":"698627377152000101",
+        "commandmoder":"790527403150671892"
+    },
+    "activity": {
+        "status": true,
+        "name": "hizrp.ru",
+        "option": "WATCHING"
+    },
+    "ChannelCreate": {
+        "CategoryID": "638599909184110604",
+        "ChannelID": "729711807555436584"
+    },
+    "Guild": {
+        "GuildID": "261211510624223232",
+        "GuildName": "✨ HIZRP | Online: ",
+        "TopMoney":"697850564263804959",
+        "TopMoneyName":"› 💰︙ ",
+        "TopHours":"697850488313348106",
+        "TopHoursName":"› 🕒︙"
+    },
+    "Parser":{
+        "urlonline": "https://ip-servers.ru/server/info?id=1008",
+        "urladmin": "http://desk.hizrp.ru/staff/",
+        "topmoney":"http://desk.hizrp.ru/darkrp/leaderboard.php",
+        "tophours":"http://desk.hizrp.ru/hours_leaderboard.php"
+    },
+    "AdminRole":{
+        "muterole":"734325338213056542",
+        "voicemute":"734325230998126593",
+        "chatmute":"734325298203721768"
+    },
+    "ModeratedChannel":{
+        "foto": "638601055688458250",
+        "video":"638601036537397259",
+        "bugs":"711953204350550027",
+        "savebugs":"659092016054927370"
+    },
+    "AdminRoles":{
+        "Owner":["638597413464178698","689738540677988397","638596357577244675"],
+        "Nabor":["638597413464178698","689738540677988397","638596357577244675","638596359364149258","638596360383234048","638596361331408907"],
+        "Discord":["638597413464178698","760774933004550154","736261211758526544"]
+    }
+}
